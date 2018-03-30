@@ -1,4 +1,4 @@
-class CFStacker < Formula
+class Cfstacker < Formula
   include Language::Python::Virtualenv
 
   homepage "https://github.com/yuuki/cfstacker"
